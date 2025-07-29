@@ -13,7 +13,7 @@ const Item = (props) => {
             </div>
             <div className="item-old-peice">
                 ${props.old_price}
-            </div>
+            </div> 
         </div>
     </div>
   )
